@@ -1,4 +1,4 @@
-# Portofolio
+# Portfolio
 
 CV: https://ligopsychakis-michalis.github.io/html-css/WEEK_1/
 
