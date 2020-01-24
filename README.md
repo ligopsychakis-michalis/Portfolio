@@ -13,3 +13,9 @@ Temperature_Converter: https://ligopsychakis-michalis.github.io/JavaScript_1/Wee
 Weight_Converter: https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/weight-converter/
 
 Meditation App: https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/
+
+Issue_Tracker: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker
+
+Random_Quote: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote
+
+Paper_Rock_Game: https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/paper-rock-game
