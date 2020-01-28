@@ -19,3 +19,5 @@ Issue_Tracker: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue
 Random_Quote: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote
 
 Paper_Rock_Game: https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/paper-rock-game
+
+Pomodoro_Clock: https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock
