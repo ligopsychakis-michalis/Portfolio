@@ -26,6 +26,4 @@ Boolist_App: https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/booklis
 
 Tip_Calculator: https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/tip-calculator
 
-Number_Facts: https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/number-facts
-
 Render_HYF_Repos: https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1
