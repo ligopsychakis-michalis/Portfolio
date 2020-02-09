@@ -1,6 +1,6 @@
 # Portfolio
 
-CV: https://ligopsychakis-michalis.github.io/html-css/WEEK_1/
+Agriculturist_CV: https://ligopsychakis-michalis.github.io/html-css/WEEK_1/
 
 Flexbox: https://ligopsychakis-michalis.github.io/html-css/WEEK_2/
 
