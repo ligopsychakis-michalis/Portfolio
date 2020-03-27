@@ -33,3 +33,6 @@ Weather_App: https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather
 Render_HYF_Repos_2: https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2
 
 Memory_Game: https://ligopsychakis-michalis.github.io/myProjects/memory-game
+
+Frontend-Mentor1: https://ligopsychakis-michalis.github.io/myProjects/mentor1
+
