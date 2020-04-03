@@ -2,8 +2,8 @@
 
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
-## Web Apps <details>
-<summary>Click to expand..</summary>
+<details>
+**<summary>Web Apps</summary>
 
 * [Calculator](https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/)
 * [Pomodoro_Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
