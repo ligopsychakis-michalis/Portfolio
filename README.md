@@ -1,4 +1,4 @@
-<p align="center"># Portfolio</p>
+# Portfolio
 
 ## Web Apps
 Recreate a Site: https://ligopsychakis-michalis.github.io/html-css/WEEK_3/
