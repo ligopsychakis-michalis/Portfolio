@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio<sub><sup>by Ligopsychakis Michalis</sup></sub></h1>
+<h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
 <br>
 <details>
 <summary>Web Apps</summary>
