@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
+<h1 align="center">Portfolio<sub>  <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
 <br>
 <details>
 <summary>Web Apps</summary>
@@ -40,7 +40,7 @@
 ---
 
 <details>
-<summary><a href="https://www.frontendmentor.io/challenges" target="_blank">Frontend Mentor</a> challenges</summary>
+<summary><a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a> challenges</summary>
   
 * [Huddle_landing_page](https://ligopsychakis-michalis.github.io/myProjects/mentor1)
 * [REST_Countries_API](https://ligopsychakis-michalis.github.io/myProjects/mentor2)
