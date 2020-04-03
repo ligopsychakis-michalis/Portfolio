@@ -2,7 +2,7 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Web Apps") -->
 <details>
-<summary>"Web Apps"</summary>
+<summary><h2>Web Apps</h2></summary>
 
 * [`left` alignment](#left-alignment)
 * [`right` alignment](#right-alignment)
