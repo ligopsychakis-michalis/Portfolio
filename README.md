@@ -1,4 +1,4 @@
-# <h1 align="center">Portfolio</h1>
+<h1 align="center">Portfolio</h1>
 
 ## Web Apps
 Recreate a Site: https://ligopsychakis-michalis.github.io/html-css/WEEK_3/
