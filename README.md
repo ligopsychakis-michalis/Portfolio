@@ -5,50 +5,89 @@
 <details>
 <summary>Click to expand..</summary>
 
-* [Calculator](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
-* [`right` alignment](#right-alignment)
-* [`center` alignment example](#center-alignment-example)
-* [`collapse` Sections](#collapse-sections)
-* [`additional links`](#additional-links)
-* [Badges](#badges)
+* [Calculator](https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/)
+* [Pomodoro_Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
+* [Weather_App](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app)
+* [Temperature_Converter](https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/temperature-converter/)
+* [Weight_Converter](https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/weight-converter/)
+* [Random_Quote](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote)
+* [Tip_Calculator](https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/tip-calculator)
+* [Boolist_App](https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/booklist-app)
+* [Issue_Tracker](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker)
+* [Meditation App](https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/)
+
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+## Web Sites
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>Click to expand..</summary>
+
+* [Recreate a Site](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
+* [Render_Github_Repos1](https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1)
+* [Render_Github_Repos2](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 
+## Games
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>Click to expand..</summary>
 
-## Web Apps
-Recreate a Site: https://ligopsychakis-michalis.github.io/html-css/WEEK_3/
+* [Memory_Game](https://ligopsychakis-michalis.github.io/myProjects/memory-game)
+* [Rock_Paper_Scissors](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/paper-rock-game)
 
-Calculator: https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
-Temperature_Converter: https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/temperature-converter/
 
-Weight_Converter: https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/weight-converter/
+## [Frontend Mentor](https://www.frontendmentor.io/challenges) challenges
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>Click to expand..</summary>
 
-Meditation App: https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/
+* [Huddle_landing_page](https://ligopsychakis-michalis.github.io/myProjects/mentor1)
+* [REST_Countries_API](https://ligopsychakis-michalis.github.io/myProjects/mentor2)
 
-Issue_Tracker: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
-Random_Quote: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote
+
+-------Recreate a Site: https://ligopsychakis-michalis.github.io/html-css/WEEK_3/
+
+----Calculator: https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/
+
+-----Temperature_Converter: https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/temperature-converter/
+
+-------Weight_Converter: https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/weight-converter/
+
+------Meditation App: https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/
+
+------Issue_Tracker: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker
+
+------Random_Quote: https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote
 
 Paper_Rock_Game: https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/paper-rock-game
 
-Pomodoro_Clock: https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock
+-----Pomodoro_Clock: https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock
 
-Boolist_App: https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/booklist-app
+------Boolist_App: https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/booklist-app
 
-Tip_Calculator: https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/tip-calculator
+-----Tip_Calculator: https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/tip-calculator
 
-Render_HYF_Repos_1: https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1
+---Render_HYF_Repos_1: https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1
 
-Weather_App: https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app
+-------Weather_App: https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app
 
-Render_HYF_Repos_2: https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2
+-------Render_HYF_Repos_2: https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2
 
-Memory_Game: https://ligopsychakis-michalis.github.io/myProjects/memory-game
+-----Memory_Game: https://ligopsychakis-michalis.github.io/myProjects/memory-game
 
-Frontend-Mentor1: https://ligopsychakis-michalis.github.io/myProjects/mentor1
+Huddle_landing_page: https://ligopsychakis-michalis.github.io/myProjects/mentor1
 
-Frontend_Mentor2: https://ligopsychakis-michalis.github.io/myProjects/mentor2
+REST_Countries_API: https://ligopsychakis-michalis.github.io/myProjects/mentor2
 
