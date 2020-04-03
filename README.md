@@ -40,8 +40,8 @@
 ---
 
 <details>
-[Frontend Mentor](https://www.frontendmentor.io/challenges) <summary>challenges</summary>
-  
+<summary>Frontend Mentor challenges</summary>
+  [Frontend Mentor(WebSite)](https://www.frontendmentor.io/challenges)
 * [Huddle_landing_page](https://ligopsychakis-michalis.github.io/myProjects/mentor1)
 * [REST_Countries_API](https://ligopsychakis-michalis.github.io/myProjects/mentor2)
 
