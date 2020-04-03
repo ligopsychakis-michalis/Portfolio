@@ -5,7 +5,7 @@
 <details>
 <summary>Click to expand..</summary>
 
-* [Calculator](#https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
+* [Calculator](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
 * [`right` alignment](#right-alignment)
 * [`center` alignment example](#center-alignment-example)
 * [`collapse` Sections](#collapse-sections)
