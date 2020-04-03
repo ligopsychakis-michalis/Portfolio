@@ -3,7 +3,7 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-**<summary>Web Apps</summary>
+<summary>Web Apps</summary>
 
 * [Calculator](https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/)
 * [Pomodoro_Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
@@ -15,7 +15,7 @@
 * [Boolist_App](https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/booklist-app)
 * [Issue_Tracker](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker)
 * [Meditation App](https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/)
-
+---
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
