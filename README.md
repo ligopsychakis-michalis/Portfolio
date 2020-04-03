@@ -1,9 +1,9 @@
-<h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
+<h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/"><font size="1">Ligopsychakis Michalis</font></sup></sub></a></h1>
 <br>
 <details>
 <summary>Web Apps</summary>
   
-* [Calculator](https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/){:target="_blank"}
+* [Calculator](https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/)
 * [Pomodoro_Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
 * [Weather_App](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app)
 * [Temperature_Converter](https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/temperature-converter/)
