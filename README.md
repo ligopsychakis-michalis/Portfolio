@@ -1,10 +1,11 @@
 <h1 align="center">Portfolio</h1>
 
+## Web Apps
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>Click to expand</summary>
+<summary>Click to expand..</summary>
 
-* [`left` alignment](#left-alignment)
+* [Calculator](#https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
 * [`right` alignment](#right-alignment)
 * [`center` alignment example](#center-alignment-example)
 * [`collapse` Sections](#collapse-sections)
