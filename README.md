@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio</h1>
+<h1 align="center">Portfolio</h1><sub>by Ligopsychakis Michalis</sub>
 <br>
 <details>
 <summary>Web Apps</summary>
