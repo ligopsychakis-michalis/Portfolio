@@ -1,8 +1,8 @@
 <h1 align="center">Portfolio</h1>
 
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Web Apps") -->
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary><h2>Web Apps</h2></summary>
+<summary>Click to expand</summary>
 
 * [`left` alignment](#left-alignment)
 * [`right` alignment](#right-alignment)
