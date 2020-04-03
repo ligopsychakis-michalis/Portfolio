@@ -1,8 +1,8 @@
 <h1 align="center">Portfolio</h1>
 
-## Web Apps
+
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
-<details>
+## Web Apps <details>
 <summary>Click to expand..</summary>
 
 * [Calculator](https://ligopsychakis-michalis.github.io/JavaScript_1/HTML_Calculator/)
