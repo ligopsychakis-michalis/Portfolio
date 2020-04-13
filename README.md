@@ -42,9 +42,10 @@
 <details>
 <summary><a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a> challenges</summary>
   
-* [Huddle_landing_page](https://ligopsychakis-michalis.github.io/myProjects/huddle)
-* [REST_Countries_API](https://ligopsychakis-michalis.github.io/myProjects/countries)
 * [URL_shortening_API](https://ligopsychakis-michalis.github.io/myProjects/short_url)
+* [REST_Countries_API](https://ligopsychakis-michalis.github.io/myProjects/countries)
+* [Huddle_landing_page](https://ligopsychakis-michalis.github.io/myProjects/huddle)
+
 
 </details>
 
