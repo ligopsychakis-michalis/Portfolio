@@ -45,6 +45,7 @@
 * [URL_shortening_API](https://ligopsychakis-michalis.github.io/myProjects/short_url)
 * [REST_Countries_API](https://ligopsychakis-michalis.github.io/myProjects/countries)
 * [Huddle_landing_page](https://ligopsychakis-michalis.github.io/myProjects/huddle)
+* [Clipboard_landing_page](https://ligopsychakis-michalis.github.io/myProjects/clipboard)
 
 
 </details>
