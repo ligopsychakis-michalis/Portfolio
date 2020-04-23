@@ -12,8 +12,8 @@
 * [Tip_Calculator](https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/tip-calculator)
 * [Boolist_App](https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/booklist-app)
 * [Issue_Tracker](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker)
-* [Meditation App](https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/)
-* [My Google Map](My_Google_Map: https://ligopsychakis-michalis.github.io/myProjects/my_google_map)
+* [Meditation_App](https://ligopsychakis-michalis.github.io/JavaScript_1/Week3/meditation-app/)
+* [My_Google_Map](https://ligopsychakis-michalis.github.io/myProjects/my_google_map)
   
 </details>
 
