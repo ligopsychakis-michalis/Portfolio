@@ -22,9 +22,9 @@
 <details>
 <summary>Web Sites</summary>
   
-* [Recreate a Site](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
 * [Render Github Repos1](https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1)
-* [Render Github Repos2](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2)
+* [Render Github Repos2](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2)  
+* [Recreate a Site](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
   
 </details>
 
@@ -43,8 +43,8 @@
 <details>
 <summary><a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a> challenges</summary>
   
-* [URL Shortening API](https://ligopsychakis-michalis.github.io/myProjects/short_url)
 * [REST Countries API](https://ligopsychakis-michalis.github.io/myProjects/countries)
+* [URL Shortening API](https://ligopsychakis-michalis.github.io/myProjects/short_url)
 * [Huddle landing page](https://ligopsychakis-michalis.github.io/myProjects/huddle)
 * [Clipboard landing page](https://ligopsychakis-michalis.github.io/myProjects/clipboard)
 
