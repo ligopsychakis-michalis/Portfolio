@@ -21,9 +21,9 @@
 
 <details>
 <summary>Web Sites</summary>
-  
-* [Render Github Repos1](https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1)
+
 * [Render Github Repos2](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2)  
+* [Render Github Repos1](https://ligopsychakis-michalis.github.io/JavaScript_3/Week1/hack-repo-1)
 * [Recreate a Site](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
   
 </details>
