@@ -45,6 +45,7 @@
   
 * [REST Countries API](https://ligopsychakis-michalis.github.io/myProjects/countries)
 * [URL Shortening API](https://ligopsychakis-michalis.github.io/myProjects/short_url)
+* [Easybank landing page](https://ligopsychakis-michalis.github.io/myProjects/easybank)
 * [Huddle landing page](https://ligopsychakis-michalis.github.io/myProjects/huddle)
 * [Clipboard landing page](https://ligopsychakis-michalis.github.io/myProjects/clipboard)
 
