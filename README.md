@@ -34,6 +34,7 @@
   
 * [Memory Game](https://ligopsychakis-michalis.github.io/myProjects/memory-game)
 * [Rock Paper Scissors](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/paper-rock-game)
+* [Kids Memo](https://ligopsychakis-michalis.github.io/myProjects/kids_memo)
 
 </details>
 
