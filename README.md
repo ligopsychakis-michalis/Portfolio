@@ -30,6 +30,16 @@
 ---
 
 <details>
+<summary>React Projects</summary>
+  
+* [Recipes App](https://find-recipes.netlify.app)
+* [Calculator](https://react0calculator.netlify.app)
+
+</details>
+
+---
+
+<details>
 <summary>Games</summary>
   
 * [Memory Game](https://ligopsychakis-michalis.github.io/myProjects/memory-game)
