@@ -5,10 +5,8 @@
   
 * [Pomodoro Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
 * [Weather App](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app)
-* [Weight Converter](https://ligopsychakis-michalis.github.io/JavaScript_1/Week2/weight-converter/)
 * [Random Quote](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote)
 * [Tip Calculator](https://ligopsychakis-michalis.github.io/JavaScript_2/Week3/tip-calculator)
-* [Issue Tracker](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/issue-tracker)
 * [Render Github Repos](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2)  
 * [Recreate a Site](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
 
