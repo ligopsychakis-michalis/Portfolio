@@ -12,6 +12,8 @@
 * [Render Github Repos](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/hack-repo-2)  
 * [Recreate a Site](https://ligopsychakis-michalis.github.io/html-css/WEEK_3/)
 
+</details>
+
 ---
 
 <details>
