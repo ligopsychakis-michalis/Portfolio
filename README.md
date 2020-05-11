@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
 <br>
 <details>
-<summary>Academy Projects</summary>
+<summary>Web Apps</summary>
   
 * [Pomodoro Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
 * [Weather App](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app)
@@ -17,6 +17,7 @@
 <details>
 <summary>React Projects</summary>
   
+* [Weather App]:(https://hack-your-weather3.netlify.app)
 * [Recipes App](https://find-recipes.netlify.app)
 * [Calculator](https://react0calculator.netlify.app)
 
