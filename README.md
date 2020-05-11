@@ -17,7 +17,7 @@
 <details>
 <summary>React Projects</summary>
   
-* [Weather App]:(https://hack-your-weather3.netlify.app)
+* [Weather App](https://hack-your-weather3.netlify.app)
 * [Recipes App](https://find-recipes.netlify.app)
 * [Calculator](https://react0calculator.netlify.app)
 
