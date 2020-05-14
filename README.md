@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
 <br>
 <details>
-<summary>Web Apps</summary>
+<summary>Apps & Sites</summary>
   
 * [Pomodoro Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
 * [Weather App](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app)
