@@ -30,6 +30,7 @@
 <summary>Games</summary>
   
 * [Memory Game](https://ligopsychakis-michalis.github.io/myProjects/memory-game)
+* [Tic Tac Toe](https://ligopsychakis-michalis.github.io/myProjects/tic-tac-toe)
 * [Rock Paper Scissors](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/paper-rock-game)
 * [Insects Memo](https://ligopsychakis-michalis.github.io/myProjects/kids_memo)
 
