@@ -14,7 +14,9 @@
 
 <details>
 <summary>All Projects</summary>
+  
 ---  
+
 <details>
 <summary>Apps & Sites</summary>
   
