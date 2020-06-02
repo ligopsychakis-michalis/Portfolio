@@ -13,8 +13,8 @@
 ---
 
 <details>
-<summary>All Projets</summary>
-  
+<summary>All Projects</summary>
+---  
 <details>
 <summary>Apps & Sites</summary>
   
@@ -66,5 +66,4 @@
 
 </details>
 
----
 </details>
