@@ -1,6 +1,21 @@
 <h1 align="center">Portfolio<sub> <sup>by <a href="https://www.linkedin.com/in/michalis-ligopsychakis-517621164/">Ligopsychakis Michalis</sup></sub></a></h1>
 <br>
 <details>
+<summary>Representative Projects</summary>
+  
+* [Fav Books](https://fav-books.netlify.app)
+* [REST Countries API](https://ligopsychakis-michalis.github.io/myProjects/countries)
+* [Memory Game](https://ligopsychakis-michalis.github.io/myProjects/memory-game)
+* [Clipboard landing page](https://ligopsychakis-michalis.github.io/myProjects/clipboard)
+
+</details>
+
+---
+
+<details>
+<summary>All Projets</summary>
+  
+<details>
 <summary>Apps & Sites</summary>
   
 * [Pomodoro Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
@@ -52,3 +67,4 @@
 </details>
 
 ---
+</details>
