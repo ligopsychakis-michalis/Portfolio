@@ -11,13 +11,11 @@
 </details>
 
 ---
----
 
 <details>
 <summary>All Projects</summary>
   
 ---  
----
 
 <details>
 <summary>Apps & Sites</summary>
@@ -31,7 +29,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary>React Projects</summary>
@@ -44,7 +42,6 @@
 
 </details>
 
----
 
 <details>
 <summary>Games</summary>
@@ -56,7 +53,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary><a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a> challenges</summary>
