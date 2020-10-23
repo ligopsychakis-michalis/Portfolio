@@ -50,7 +50,6 @@
 * [Huddle landing page](https://ligopsychakis-michalis.github.io/myProjects/huddle)
 * [Clipboard landing page](https://ligopsychakis-michalis.github.io/myProjects/clipboard)
 
-
 </details>
-
+---
 
