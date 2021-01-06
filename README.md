@@ -6,7 +6,7 @@
 <details>
 <summary>Web Apps</summary>
   
-* [My_Chat](https://my-chat123.herokuapp.com/)
+* [My Chat](https://my-chat123.herokuapp.com/)
 * [Pomodoro Clock](https://ligopsychakis-michalis.github.io/JavaScript_2/Week2/pomodoro-clock)
 * [Weather App](https://ligopsychakis-michalis.github.io/JavaScript_3/Week2/weather-app)
 * [Random Quote](https://ligopsychakis-michalis.github.io/JavaScript_2/Week1/random-quote)
